@@ -45,8 +45,9 @@
 </br></br>
 
 <h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/www.linkedin.com/in/isura-udith-gunawardhana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/isura-udith-gunawardhana" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/isura.udith?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/isura.udith?mibextid=zbwkwl" height="30" width="40" /></a>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/ dilki-bandara-356aa6284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ dilki-bandara-356aa6284" height="30" width="40" /></a>
+<a href="https://fb.com/dilki deshani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dilki deshani" height="30" width="40" /></a>
+<a href="https://medium.com/dilki bandara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="dilki bandara" height="30" width="40" /></a>
 </p>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
